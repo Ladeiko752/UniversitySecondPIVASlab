@@ -1,0 +1,4 @@
+﻿  University.cpp
+C:\Users\Asus\source\repos\Ladeiko752\UniversitySecondPIVASlab\University.cpp(61,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Asus\source\repos\Ladeiko752\UniversitySecondPIVASlab\University.cpp(136,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  University.vcxproj -> C:\Users\Asus\Source\Repos\Ladeiko752\UniversitySecondPIVASlab\x64\Debug\University.exe
